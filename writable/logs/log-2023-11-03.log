@@ -1,0 +1,142 @@
+WARNING - 2023-11-03 06:30:18 --> [DEPRECATED] Creation of dynamic property App\Controllers\Kategori::$Kategori_model is deprecated in APPPATH\Controllers\Kategori.php on line 12.
+ 1 SYSTEMPATH\CodeIgniter.php(904): App\Controllers\Kategori->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(488): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+WARNING - 2023-11-03 06:33:09 --> [DEPRECATED] Creation of dynamic property App\Controllers\Kategori::$Kategori_model is deprecated in APPPATH\Controllers\Kategori.php on line 12.
+ 1 SYSTEMPATH\CodeIgniter.php(904): App\Controllers\Kategori->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(488): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+WARNING - 2023-11-03 06:43:05 --> [DEPRECATED] Creation of dynamic property App\Controllers\Kategori::$Kategori_model is deprecated in APPPATH\Controllers\Kategori.php on line 12.
+ 1 SYSTEMPATH\CodeIgniter.php(904): App\Controllers\Kategori->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(488): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+WARNING - 2023-11-03 07:01:54 --> [DEPRECATED] Creation of dynamic property App\Controllers\Kategori::$Kategori_model is deprecated in APPPATH\Controllers\Kategori.php on line 12.
+ 1 SYSTEMPATH\CodeIgniter.php(904): App\Controllers\Kategori->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(488): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+WARNING - 2023-11-03 07:05:45 --> [DEPRECATED] Creation of dynamic property App\Controllers\Kategori::$Kategori_model is deprecated in APPPATH\Controllers\Kategori.php on line 12.
+ 1 SYSTEMPATH\CodeIgniter.php(904): App\Controllers\Kategori->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(488): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+WARNING - 2023-11-03 07:07:07 --> [DEPRECATED] Creation of dynamic property App\Controllers\Kategori::$Kategori_model is deprecated in APPPATH\Controllers\Kategori.php on line 12.
+ 1 SYSTEMPATH\CodeIgniter.php(904): App\Controllers\Kategori->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(488): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+WARNING - 2023-11-03 07:09:09 --> [DEPRECATED] Creation of dynamic property App\Controllers\Kategori::$Kategori_model is deprecated in APPPATH\Controllers\Kategori.php on line 12.
+ 1 SYSTEMPATH\CodeIgniter.php(904): App\Controllers\Kategori->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(488): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+WARNING - 2023-11-03 07:09:48 --> [DEPRECATED] Creation of dynamic property App\Controllers\Kategori::$Kategori_model is deprecated in APPPATH\Controllers\Kategori.php on line 12.
+ 1 SYSTEMPATH\CodeIgniter.php(904): App\Controllers\Kategori->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(488): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-11-03 07:09:48 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-11-03 07:09:48 --> [DEPRECATED] Creation of dynamic property App\Controllers\Kategori::$Kategori_model is deprecated in APPPATH\Controllers\Kategori.php on line 12.
+ 1 SYSTEMPATH\CodeIgniter.php(904): App\Controllers\Kategori->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(488): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+WARNING - 2023-11-03 07:25:35 --> [DEPRECATED] Creation of dynamic property App\Controllers\Kategori::$Kategori_model is deprecated in APPPATH\Controllers\Kategori.php on line 12.
+ 1 SYSTEMPATH\CodeIgniter.php(904): App\Controllers\Kategori->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(488): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-11-03 07:25:35 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-11-03 07:29:33 --> [DEPRECATED] Creation of dynamic property App\Controllers\Kategori::$Kategori_model is deprecated in APPPATH\Controllers\Kategori.php on line 12.
+ 1 SYSTEMPATH\CodeIgniter.php(904): App\Controllers\Kategori->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(488): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-11-03 07:29:33 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-11-03 07:30:04 --> [DEPRECATED] Creation of dynamic property App\Controllers\Kategori::$Kategori_model is deprecated in APPPATH\Controllers\Kategori.php on line 12.
+ 1 SYSTEMPATH\CodeIgniter.php(904): App\Controllers\Kategori->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(488): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-11-03 07:30:04 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-11-03 07:30:04 --> [DEPRECATED] Creation of dynamic property App\Controllers\Kategori::$Kategori_model is deprecated in APPPATH\Controllers\Kategori.php on line 12.
+ 1 SYSTEMPATH\CodeIgniter.php(904): App\Controllers\Kategori->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(488): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-11-03 07:30:04 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-11-03 07:31:08 --> [DEPRECATED] Creation of dynamic property App\Controllers\Kategori::$Kategori_model is deprecated in APPPATH\Controllers\Kategori.php on line 12.
+ 1 SYSTEMPATH\CodeIgniter.php(904): App\Controllers\Kategori->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(488): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-11-03 07:31:08 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-11-03 07:31:09 --> [DEPRECATED] Creation of dynamic property App\Controllers\Kategori::$Kategori_model is deprecated in APPPATH\Controllers\Kategori.php on line 12.
+ 1 SYSTEMPATH\CodeIgniter.php(904): App\Controllers\Kategori->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(488): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-11-03 07:31:09 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-11-03 07:46:55 --> [DEPRECATED] Creation of dynamic property App\Controllers\Kategori::$Kategori_model is deprecated in APPPATH\Controllers\Kategori.php on line 12.
+ 1 SYSTEMPATH\CodeIgniter.php(904): App\Controllers\Kategori->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(488): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-11-03 07:46:55 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-11-03 07:51:45 --> [DEPRECATED] Creation of dynamic property App\Controllers\Kategori::$Kategori_model is deprecated in APPPATH\Controllers\Kategori.php on line 12.
+ 1 SYSTEMPATH\CodeIgniter.php(904): App\Controllers\Kategori->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(488): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-11-03 07:51:45 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-11-03 07:53:28 --> [DEPRECATED] Creation of dynamic property App\Controllers\Kategori::$Kategori_model is deprecated in APPPATH\Controllers\Kategori.php on line 12.
+ 1 SYSTEMPATH\CodeIgniter.php(904): App\Controllers\Kategori->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(488): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-11-03 07:53:28 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-11-03 07:55:49 --> [DEPRECATED] Creation of dynamic property App\Controllers\Kategori::$Kategori_model is deprecated in APPPATH\Controllers\Kategori.php on line 12.
+ 1 SYSTEMPATH\CodeIgniter.php(904): App\Controllers\Kategori->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(488): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-11-03 07:55:49 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-11-03 07:59:46 --> [DEPRECATED] Creation of dynamic property App\Controllers\Kategori::$Kategori_model is deprecated in APPPATH\Controllers\Kategori.php on line 12.
+ 1 SYSTEMPATH\CodeIgniter.php(904): App\Controllers\Kategori->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(488): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-11-03 07:59:46 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-11-03 08:01:03 --> [DEPRECATED] Creation of dynamic property App\Controllers\Kategori::$Kategori_model is deprecated in APPPATH\Controllers\Kategori.php on line 12.
+ 1 SYSTEMPATH\CodeIgniter.php(904): App\Controllers\Kategori->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(488): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-11-03 08:01:03 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-11-03 08:02:17 --> [DEPRECATED] Creation of dynamic property App\Controllers\Kategori::$Kategori_model is deprecated in APPPATH\Controllers\Kategori.php on line 12.
+ 1 SYSTEMPATH\CodeIgniter.php(904): App\Controllers\Kategori->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(488): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-11-03 08:02:17 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-11-03 08:03:49 --> [DEPRECATED] Creation of dynamic property App\Controllers\Departemen::$Departemen_model is deprecated in APPPATH\Controllers\Departemen.php on line 12.
+ 1 SYSTEMPATH\CodeIgniter.php(904): App\Controllers\Departemen->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(488): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-11-03 08:03:49 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-11-03 08:04:11 --> [DEPRECATED] Creation of dynamic property App\Controllers\Departemen::$Departemen_model is deprecated in APPPATH\Controllers\Departemen.php on line 12.
+ 1 SYSTEMPATH\CodeIgniter.php(904): App\Controllers\Departemen->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(488): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-11-03 08:04:11 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-11-03 08:04:11 --> [DEPRECATED] Creation of dynamic property App\Controllers\Departemen::$Departemen_model is deprecated in APPPATH\Controllers\Departemen.php on line 12.
+ 1 SYSTEMPATH\CodeIgniter.php(904): App\Controllers\Departemen->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(488): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-11-03 08:04:11 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
